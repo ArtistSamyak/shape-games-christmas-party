@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+h2 {
+  color: green;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3, p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-bar {
+  margin: 0;
+  padding: 20px;
+  color: white;
+  background-color: black;
+}
+
+.me {
+  max-width: 50px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.heading-div {
+}
+
+.heading-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.heading-subtitle {
+  margin-top: 5px;
+}
+
+.fact-div {
+  margin: 0;
+  padding: 25% 20%;
+  background-image: url("Images/giphy.gif");
+  background-size: cover;
+  color: gold;
+  text-align: center;
+  height: 80%;
+}
+
+.fact {
+  margin: 0;
+  font-size: 300%;
+  text-shadow: 0px 0px 30px green;
+}
+
+.snapchat-div {
+  padding: 10% 20%;
+}
+
+.filter-link {
+  background-color:#ffec64;
+  border-radius:28px;
+  border:1px solid lightblue;
+  display:inline-block;
+  cursor:pointer;
+  color:#333333;
+  font-family:Arial;
+  font-size:17px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  padding:16px 31px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffee66;
+}
+
+.filter-link:hover {
+  background-color: lightblue;
+}
+
+.filter-link:active {
+	position:relative;
+	top:1px;
+}
+
+.ar-link {
+  margin-left: 20px;
+}
+
+.snapcode {
+  float: left;
+  min-width: 150px;
+  width: 20%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+}
+
+.insta-fb-div {
+  padding: 5% 20%;
+}
+
+.my-insta {
+  float: right;
+  min-width: 150px;
+  width: 20%;
+  margin-left: 20%;
+}
+
+.ar-div {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.center-h2 {
+  text-align: center;
+}
+
+.pumpkin {
+  border-radius: 20% 60%;
+  width: 30%;
+  margin: 3% 20%;
+}
+
+.author {
+  padding: 3%;
+  color: white;
+  background-color: green;
+  text-align: center;
+}
+
+.copyright {
+  margin: 0
+}
